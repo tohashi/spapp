@@ -1,0 +1,17 @@
+{
+  "name": "marionette-sandbox",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.0.3",
+    "lodash": "2.2.1",
+    "backbone": "1.0.0",
+    "backbone.marionette": "1.1.0"
+  }
+}

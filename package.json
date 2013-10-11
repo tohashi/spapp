@@ -1,0 +1,25 @@
+{
+  "name": "spapp",
+  "version": "0.0.0",
+  "description": "spapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t93/spapp.git"
+  },
+  "author": "t93",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t93/spapp/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "bower": "~1.2.6",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
